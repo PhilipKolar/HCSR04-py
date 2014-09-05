@@ -1,0 +1,5 @@
+Actual distance:           500.00cm
+Data count (w/ timeouts):  84
+Data count (w/o timeouts): 0
+Timeouts:                  84
+Timeout frequency:         100.00%

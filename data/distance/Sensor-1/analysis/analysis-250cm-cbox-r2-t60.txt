@@ -1,0 +1,16 @@
+Actual distance:           250.00cm
+Data count (w/ timeouts):  115
+Data count (w/o timeouts): 114
+Timeouts:                  1
+Timeout frequency:         0.87%
+Median:                    249.31cm
+Mean:                      249.45cm
+Outlier Count:             3
+Standard deviation:        1.40cm
+Quartile 1:                248.68cm
+Quartile 3:                250.26cm
+Min value (w/ outliers):   242.57cm
+Max value (w/ outliers):   254.30cm
+Min value (w/o outliers):  247.19cm
+Max value (w/o outliers):  252.27cm
+Outliers: [242.57, 245.59, 254.3]

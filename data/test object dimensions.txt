@@ -1,0 +1,5 @@
+all measurements are width * height
+
+trophy-wooden : 7.2cm * 8.0cm
+book : 18.0cm * 23.6cm
+cbox (AKA carboard box) : 49.0cm * 85.2cm
